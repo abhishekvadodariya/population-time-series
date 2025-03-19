@@ -4,9 +4,9 @@
 
 <p>This project demonstrates how to create animated bar charts using Matplotlib to visualize changes in world population over time.  The animation shows how population values for different countries evolve, providing a dynamic view of demographic trends.</p>
 
-<video controls width="600">
-  <source src="video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/a3ff9045-53d2-4d02-8cce-4327640548ea
+
+
 
 The code uses the `FuncAnimation` feature of Matplotlib to update the bar chart for each time step, creating a smooth visual transition.
